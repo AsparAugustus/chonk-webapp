@@ -13,13 +13,13 @@ const Hero3 = ({children}) => {
   <div className=" text-white p-8 max-w-md sm:max-w-lg md:max-w-xl lg:max-w-3xl space-x-5">
     <h2 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold mb-4">The Chonk Revolution</h2>
     <p className="text-gray-200 text-sm sm:text-md md:text-lg">
-    Chonk: More Than a Memecoin, It's a Community Movement!
+    Chonk: More Than a Memecoin, It&apos;s a Community Movement!
 
 Chonk, born from the whimsical world of memes, draws inspiration from the legendary Doge. What began as a collection of laughs and endless entertainment has evolved into a diverse community of forward-thinking individuals united by the Chonk spirit.
 
-At the heart of Chonk is decentralization, organic growth, and a commitment to our community. No team wallets, no developer taxes – just pure Chonk power. We've achieved everything through the strength of our community, embracing the ethos of 'utility through community' that sets Chonk apart.
+At the heart of Chonk is decentralization, organic growth, and a commitment to our community. No team wallets, no developer taxes – just pure Chonk power. We&apos;ve achieved everything through the strength of our community, embracing the ethos of &apos;utility through community&apos; that sets Chonk apart.
 
-We're not just building a memecoin; we're crafting a legacy. Through market winters and bull runs, Chonk stands resilient, echoing the true spirit of what DeFi was meant to be. Join us in the Chonk revolution – where community, humor, and unity define the future of memecoins. Let's chonk it up!
+We&apos;re not just building a memecoin; we&apos;re crafting a legacy. Through market winters and bull runs, Chonk stands resilient, echoing the true spirit of what DeFi was meant to be. Join us in the Chonk revolution – where community, humor, and unity define the future of memecoins. Let&apos;s chonk it up!
     </p>
   </div>
 
